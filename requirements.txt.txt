@@ -1,4 +1,4 @@
-# Requerimientos para Análisis de Cohortes, LTV y CAC
+# Requerimientos
 pandas>=2.0.0
 numpy>=1.24.0
 matplotlib>=3.7.0
